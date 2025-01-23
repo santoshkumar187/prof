@@ -26,7 +26,7 @@
 <h3 align="left">Support:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=santoshkumar187&show_icons=true&locale=en&layout=compact" alt="santoshkumar187" /></p><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santoshkumar187&show_icons=true&locale=en" alt="santoshkumar187" /></p><br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adithyamohanan&" alt="adithyamohanan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santoshkumar187&" alt="adithyamohanan" /></p>
 
 
 
