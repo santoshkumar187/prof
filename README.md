@@ -15,9 +15,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/santosh-kumar-ingole-a9193a294/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/santosh-kumar-ingole-a9193a294" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100056470937834/" target="blank"><img align="center" src="" alt="Facebook" height="30" width="40" /></a>
-<a href="https://www.instagram.com/santoshkumaringole?igsh=MTk5Z3Y4emd5ZHVyYw==" target="blank"><img align="center" src="" alt="Instagram" height="30" width="40" /></a>
-<a href="https://youtube.com/@threadpool-824?si=sUDNu4Qblk-K1bPH" target="blank"><img align="center" src="" alt="Threadpool yt channel" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100056470937834/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100056470937834" height="30" width="40" /></a>
+<a href="https://www.instagram.com/santoshkumaringole?igsh=MTk5Z3Y4emd5ZHVyYw==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="[Instagram](https://www.instagram.com/santoshkumaringole?igsh=MTk5Z3Y4emd5ZHVyYw==)" height="30" width="40" /></a>
+<a href="https://youtube.com/@threadpool-824?si=sUDNu4Qblk-K1bPH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="[Threadpool yt channel](https://youtube.com/@threadpool-824?si=sUDNu4Qblk-K1bPH" target=)" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
